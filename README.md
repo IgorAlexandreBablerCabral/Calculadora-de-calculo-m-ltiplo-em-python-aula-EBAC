@@ -1,1 +1,1 @@
-# Calculadora-de-calculo-m-ltiplo-em-python-aula-EBAC
+Calculadora de multiplos calculos, com base em python e biblioteca de front nativa em Python TKinter
