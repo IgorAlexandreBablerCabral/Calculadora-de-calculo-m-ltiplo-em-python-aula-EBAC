@@ -76,10 +76,7 @@ def verificar_valor_e_calcular():
 botao = tk.Button(janela, text ="Calcular", command=verificar_valor_e_calcular)
 botao.pack(pady=20)
 
-#Label de aviso para os professores que vão corrigir minha tarefa <3
-texto = "Olá professores da EBAC lindos do meu coração, como foi minha primeira exp com Tkinter (essa interface de front simplificada de Python), dentro desse projeto ocorreram alguns bugs satânicos e eu precisei da ajuda do chatGpt para a correção deles, não me matem <3 amo vcs"
-label = tk.Label(janela, text=texto, wraplength=800, justify="center")
-label.pack(pady=20)
 
 # Cria a mensagem de resultado
+
 janela.mainloop()
